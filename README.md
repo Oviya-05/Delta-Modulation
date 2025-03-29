@@ -1,6 +1,6 @@
 # Delta-Modulation
 ## Aim:
-  To demonstrate the principles of delta modulation (DM), a 1-bit differential pulse-code modulation (DPCM) technique, by analyzing its operation, identifying noise types (slope overload and granular noise), and exploring adaptive delta modulation (ADM) for noise minimization.
+    To demonstrate the principles of delta modulation (DM), a 1-bit differential pulse-code modulation (DPCM) technique, by analyzing its operation, identifying noise types (slope overload and granular noise), and exploring adaptive delta modulation (ADM) for noise minimization.
   
 ## Tools required:
 
@@ -86,5 +86,5 @@ plt.show()
 
 ## Results:
 
-  Delta Modulation produced a staircase approximation of the input signal, with slope overload and granular noise observed due to improper step size. Adaptive Delta Modulation reduced noise by dynamically adjusting the step size, improving signal reconstruction quality.
+    Delta Modulation produced a staircase approximation of the input signal, with slope overload and granular noise observed due to improper step size. Adaptive Delta Modulation reduced noise by dynamically adjusting the step size, improving signal reconstruction quality.
 
